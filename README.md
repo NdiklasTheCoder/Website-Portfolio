@@ -1,7 +1,7 @@
 # Website-Portfolio
 
 
-# <a href='http://ecogreensolutions.co.ke'><img src='https://pixabay.com/illustrations/tree-structure-networks-internet-2647471' height='60' alt='Portfoli Logo' /></a> How to Create portfolio
+# <a href='http://ecogreensolutions.co.ke'><img src='https://cdn.pixabay.com/photo/2017/08/16/11/38/tree-2647471_960_720.png' height='60' alt='Portfoli Logo' /></a> How to Create portfolio
 
 ## Introduction
 
