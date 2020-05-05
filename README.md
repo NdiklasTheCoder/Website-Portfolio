@@ -1,15 +1,26 @@
-# Website-Portfolio
+# Portfolio
 
 
 # <a href='http://ecogreensolutions.co.ke'><img src='https://cdn.pixabay.com/photo/2017/08/16/11/38/tree-2647471_960_720.png' height='60' alt='Portfoli Logo' /></a> How to Create portfolio
 
 ## Introduction
 
-## Step by Step Guide
+## Description
+  * How to Structure text
+  * How to insert images
+  * How to creat Markdown
+  
+## gh-pages link
+NdiklasTheCoder.github.io/independent-project
+  
+### License
+Copyright <2020> <**NdiklasTheCoder**>
 
-* Step 1
-* Step 2
-* Step 3
-* Step 4 
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
 
 Happy Coding!
