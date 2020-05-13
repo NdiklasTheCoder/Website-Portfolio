@@ -1,20 +1,10 @@
-# Portfolio
-
-
-# <a href='http://ecogreensolutions.co.ke'><img src='https://cdn.pixabay.com/photo/2017/08/16/11/38/tree-2647471_960_720.png' height='60' alt='Portfoli Logo' /></a> How to Create portfolio
+io
 
 
 ## Author
 * Nicholas
 
-## Description
-  * How to Structure HTML and CSS
-  * How use Indentation and Spacing
-  * How to create Markdown
-  * Working with Github commits
-  
-## gh-pages link
-NdiklasTheCoder.github.io/independent-project
+
   
 ### License
 Copyright <2020> <**NdiklasTheCoder**>
